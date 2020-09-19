@@ -1,0 +1,26 @@
+[
+  {
+    "bayi_before": "19.900",
+    "bayi_after": "14",
+    "bayi_aftercoma": ".900",
+    "bayi_daftar": "938"
+  },
+  {
+    "pelajar_before": "46.900",
+    "pelajar_after": "23",
+    "pelajar_aftercoma": ".450",
+    "pelajar_daftar": "4.168"
+  },
+  {
+    "personal_before": "58.900",
+    "personal_after": "38",
+    "personal_aftercoma": ".900",
+    "personal_daftar": "10.017"
+  },
+  {
+    "bisnis_before": "109.900",
+    "bisnis_after": "65",
+    "bisnis_aftercoma": ".900",
+    "bisnis_daftar": "3552"
+  }
+]
