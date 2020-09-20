@@ -2,7 +2,6 @@
     <div>
       <transition name="fade" mode="out-in">
         <div>
-          asu
           <menu-component></menu-component>
           <navbar-component></navbar-component>
           <headline-component></headline-component>
