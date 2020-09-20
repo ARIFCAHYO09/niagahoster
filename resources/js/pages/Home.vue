@@ -1,20 +1,25 @@
 <template>
-  <div>
-    <menu-component></menu-component>
-    <navbar-component></navbar-component>
-    <headline-component></headline-component>
-    <fitur-component></fitur-component>
-    <paket-component></paket-component>
-    <limit-component></limit-component>
-    <support-component></support-component>
-    <framework-component></framework-component>
-    <modul-component></modul-component>
-    <linux-component></linux-component>
-    <share-component></share-component>
-    <bantuan-component></bantuan-component>
-    <footer-component></footer-component>
-    <copyright-component></copyright-component>
-  </div>
+    <div>
+      <transition name="fade" mode="out-in">
+        <div>
+          asu
+          <menu-component></menu-component>
+          <navbar-component></navbar-component>
+          <headline-component></headline-component>
+          <fitur-component></fitur-component>
+          <paket-component></paket-component>
+          <limit-component></limit-component>
+          <support-component></support-component>
+          <framework-component></framework-component>
+          <modul-component></modul-component>
+          <linux-component></linux-component>
+          <share-component></share-component>
+          <bantuan-component></bantuan-component>
+          <footer-component></footer-component>
+          <copyright-component></copyright-component>
+        </div>
+      </transition>
+    </div>
 </template>
 
 <script>
